@@ -21,10 +21,6 @@ class Solution {
 
 
         }
-
-
-
-
         Stack<Integer> stack=new Stack<>();
         for(int j=val;j<nums.length;j++){
 
